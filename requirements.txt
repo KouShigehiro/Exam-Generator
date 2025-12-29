@@ -1,0 +1,11 @@
+flask
+langchain
+langchain-community
+pypdf2
+python-docx
+sentence-transformers
+faiss-cpu
+transformers
+torch
+accelerate
+bitsandbytes  # 可选，用于量化
